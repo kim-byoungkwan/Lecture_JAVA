@@ -1,1 +1,1 @@
-package kr.ac.kopo.day03;
+package kr.ac.kopo.day07;
