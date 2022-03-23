@@ -1,1 +1,1 @@
-package kr.ac.kopo.day09.abs03;
+package kr.ac.kopo.day10.inter;
